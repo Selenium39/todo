@@ -77,7 +77,7 @@ impl Todo{
 
     pub fn help(&self){
 const TODO_HELP: &str = "Usage: todo [COMMAND] [ARGUMENTS]
-Todo is a lightweight todo terminal tool written by rust
+Todo is a lightweight todo terminal tool written in rust
 Example: todo list
 Available commands:
     - add [TASK/s]
